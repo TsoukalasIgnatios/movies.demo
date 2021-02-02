@@ -1,4 +1,4 @@
-package com.book.directory.books.demo;
+package com.movie.directory.movies.demo.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
