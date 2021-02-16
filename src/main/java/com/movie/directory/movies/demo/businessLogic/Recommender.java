@@ -2,9 +2,7 @@ package com.movie.directory.movies.demo.businessLogic;
 import java.util.ArrayList;
 
 /**
- * Implement this interface to allow your code to be integrated with our web
- * site.
- * 
+
  * When users first visit the recommender website, our code will call the method
  * <code>getItemsToRate()</code> to get a list of movies to display on the web
  * page for users to rate.
